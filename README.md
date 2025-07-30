@@ -24,8 +24,8 @@ Tenho uma vibe leve, criativa e determinada, e estou sempre aprendendo algo novo
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kethulin-Campos-Arruda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethulin-Campos-Arruda&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devYukina&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYukina&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
